@@ -1,1 +1,1 @@
-# Projeto de interface para m quina de corte com fio diamantado 
+# Projeto de interface para maquina de corte com fio diamantado 
